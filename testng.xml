@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="MovieSite">
+    <test name="Test_Pushpa">
+        <classes>
+            <class name="AppTest"></class>
+        </classes>
+    </test>
+</suite>
